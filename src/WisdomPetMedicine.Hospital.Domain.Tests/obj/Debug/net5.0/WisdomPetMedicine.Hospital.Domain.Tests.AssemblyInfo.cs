@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WisdomPetMedicine.Hospital.Domain.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+371ef7207e7b8b182c77da4dad1e73be34c06804")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f7432810b7a485e4c4e47639f1368564ea2fd49")]
 [assembly: System.Reflection.AssemblyProductAttribute("WisdomPetMedicine.Hospital.Domain.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WisdomPetMedicine.Hospital.Domain.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
